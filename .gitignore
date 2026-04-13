@@ -1,0 +1,17 @@
+# Keys y variables de entorno
+backend/.env
+frontend/.env
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/routers/__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
